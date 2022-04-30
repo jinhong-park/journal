@@ -1,0 +1,11 @@
+I"c<p><strong>2020.5.17</strong></p>
+
+<p>mayabi 설치 방법</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda create -n mlab  
+conda activate mlab
+conda install -c anaconda mayavi
+conda install -c conda-forge pyvista "vtk=8.1.2" "libnetcdf=4.6.2"
+conda install scipy
+</code></pre></div></div>
+:ET
