@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "chiral phonon degeneracy and graphene CD"
-date:   2020-05-07 10:00:00 +0900
+date:   2022-05-07
 categories: research
 excerpt: ""
 ---
