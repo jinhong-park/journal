@@ -30,7 +30,8 @@ function eventAttach() {
 
 function calInit() {
     var cal = {
-        today: new Date(),
+        today: new Date(2021, 5, 1),
+	//	today: new Date(),
         on: new Date(activeArticle), // The page's date
         dateEle: document.getElementsByClassName("cal-day"),
         render : {},
