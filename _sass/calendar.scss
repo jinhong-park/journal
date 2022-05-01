@@ -5,8 +5,7 @@
   color: $text;
   font-weight: bold;
   display: none;
-  position: relative;
- // position: absolute;
+  position: absolute;
   height: 100%;
   width: 100%;
   top: 0;
@@ -20,7 +19,7 @@
   transform: translateX(-50%);
   max-width: 470px;
   min-width: 300px;
-  position: relative;
+  position: absolute;
   padding: 2em;
   background-color: #fefefe;
   -webkit-transform: translateX(-50%);
