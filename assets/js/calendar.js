@@ -93,13 +93,13 @@ function calInit() {
                     ele.title = url[n].excerpt;
                     //render[n]["url"] = url[n];
                 }
-            }
+            }getUTCFullYear
         },
 
         loadDate: function(first) {
                 // 根据任意日期，获取此月日历中第一个周一的日期
                 first.setDate(1);
-                var y = first.getFullYear();
+                var y = first.getUTCFullYear();
                 var m = first.getMonth();
                 var w = first.getDay();
                 if(!w) w = 7; // 针对周日的 getDay() 值为0 的处理，将0转化为7
@@ -110,7 +110,7 @@ function calInit() {
                 var arr = {};
                 for(var i = 0; i < 42; i++){
                     var date = first.getDate();
-                    var dateStr = `${first.getFullYear()}/${first.getMonth()+1}/${first.getDate()}`;
+                    var dateStr = `${first.getUTCFullYear()}/${first.getMonth()+1}/${first.getDate()}`;
                     arr[dateStr] = {
                         "date": date
                         //"url": null
@@ -153,17 +153,17 @@ function calInit() {
     var monthNav = document.getElementById("calMonth");
     monthNav.addEventListener('click', function(event) {
         var month = event.target.title;
-        swtich(cal.on.getFullYear(), +month);
+        swtich(cal.on.getUTCFullYear(), +month);
     }, false);
 
     var lastYearBtn = document.getElementById("lastYearBtn");
     var nextYearBtn = document.getElementById("nextYearBtn");
 
     lastYearBtn.addEventListener('click', function() {
-        swtich(cal.on.getFullYear() - 1, 11)
+        swtich(cal.on.getUTCFullYear() - 1, 11)
     }, false);
     nextYearBtn.addEventListener('click', function() {
-        swtich(cal.on.getFullYear() + 1, 0)
+        swtich(cal.on.getUTCFullYear() + 1, 0)
     }, false);
 
     cal.init();
