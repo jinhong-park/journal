@@ -1,7 +1,8 @@
 name: Jin-Hong Park
 permalink: :year/:month/:day
 #permalink: :month/:day/:title
-baseurl: /journal2
+#baseurl: /journal2
+baseurl: https://jinhong-park.github.io/journal2/
 
 # Your blog's start year and this year, showed in the footer left
 # start is optional
