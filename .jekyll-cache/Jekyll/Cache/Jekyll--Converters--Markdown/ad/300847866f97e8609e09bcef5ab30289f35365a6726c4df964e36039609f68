@@ -1,9 +1,0 @@
-I"V<p>‘시스템 무결성 보호(System Integrity Protection, 줄여서 SIP)’ 해제 방법</p>
-
-<p>부팅시 command+R 를 눌러서 복구 모드로 부팅</p>
-
-<p>terminal 열고</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/usr/bin/csrutil disable
-</code></pre></div></div>
-:ET
