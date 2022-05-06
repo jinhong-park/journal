@@ -18,11 +18,9 @@
         <span id="openBtn" class="date-index">
             No.<span id="postIndex"></span><br>
                 <!--Date YYYY-MM-DD-->
-			{% if page.date == NaN %}
-			2021-05-05
-			{% else %}
+		
 		    {{ page.date | to_string | slice: 0, 10 }}
-			{% endif %}
+		
         </span>
         </a>
         
