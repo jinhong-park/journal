@@ -1,4 +1,6 @@
 ---
+layout: post
+excerpt: ""
 heading: "맥북 충전기"
 duration: "2017.DEC.28"
 

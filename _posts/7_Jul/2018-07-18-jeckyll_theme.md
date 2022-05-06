@@ -1,4 +1,6 @@
 ---
+layout: post
+excerpt: ""
 type: "2018"
 duration: "2018.JULY.18"
 

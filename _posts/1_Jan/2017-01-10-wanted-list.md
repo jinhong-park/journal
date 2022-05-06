@@ -1,4 +1,6 @@
 ---
+layout: post
+excerpt: ""
 heading: "wanted list"
 duration: "2017.Jan.10"
 

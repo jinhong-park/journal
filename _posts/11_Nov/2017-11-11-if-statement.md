@@ -1,4 +1,6 @@
 ---
+layout: post
+excerpt: ""
 heading: "c ? A:B"
 duration: "2017.Nov.11"
 

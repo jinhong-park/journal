@@ -1,4 +1,6 @@
 ---
+layout: post
+excerpt: ""
 heading: "Vienna RSS"
 duration: "2017.DEC.08"
 

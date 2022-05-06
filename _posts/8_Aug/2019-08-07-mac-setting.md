@@ -1,4 +1,6 @@
 ---
+layout: post
+excerpt: ""
 type: "2019"
 heading : "mac setting"
 duration: "2019.AUG.07"

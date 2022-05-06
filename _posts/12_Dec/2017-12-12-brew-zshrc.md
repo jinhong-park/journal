@@ -1,4 +1,6 @@
 ---
+layout: post
+excerpt: ""
 heading: "brew zshrc"
 duration: "2017.DEC.12"
 

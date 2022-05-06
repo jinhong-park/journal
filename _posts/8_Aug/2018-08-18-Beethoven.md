@@ -1,4 +1,6 @@
 ---
+layout: post
+excerpt: ""
 type: "2018"
 heading : "classic web site"
 duration: "2018.AUG.18"
