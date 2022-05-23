@@ -1,0 +1,32 @@
+I"�<p><strong>2022.5.23(월)</strong></p>
+
+<p>이박사님이 doping 효과를 보고 싶다고 하셔서 우선 2x2x1 supercell 를 만들어서 프로그램이 잘 돌아가나 확인해보았음.</p>
+
+<p>오랜시간 계산을 돌렸는데</p>
+
+<p>나온 결과는 예상과 다른 결과임.</p>
+
+<p>허탈하지만 문제점을 잘 찾아보자.</p>
+
+<p>-&gt; 박태호 박사님과 얘기하다가 알게 됐는데</p>
+
+<blockquote>
+
+  <p>Super cell 의 ground state가 변할 수도 있으니깐, 밴드구조가 약간 바뀔 가능성도 있을것 같기는 한데, 어째건 그럴경우 super cell의 전자 구조를 zone-folding 해서 보는게 좋을것 같어.</p>
+</blockquote>
+
+<blockquote>
+
+  <p>supercell 의 전자구조를 raw data 로 보면, 너무 복잡해 져서 unit  cell 밴드구조에 비해 구분하기가 힘드니깐…</p>
+</blockquote>
+
+<blockquote>
+
+  <p>ㅇㅇ 논문들도 찾아보면 많이 나올거고… 내prb Cu_xTiSe_2 논문에도 reference 찾아보믄 될거야.</p>
+</blockquote>
+
+<blockquote>
+
+  <p>최형준 교수님 FeSe 에 K 도즈 시킨 prl 논문도 있고… 나도 최형준교수님한테 그논문 보고 여쭤보고 알게된것으로 기억해.</p>
+</blockquote>
+:ET
