@@ -1,12 +1,9 @@
 ---
 layout: post
-title : "Aug 7th"
-data : 2021-08-07
+title: "Aug 7th"
+data: 2021-08-07
 categories: research
 excerpt: ""
-
-
-
 ---
  
 
