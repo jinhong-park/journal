@@ -1,0 +1,42 @@
+I"T<p><strong>2022.08.07 (일)</strong></p>
+
+<p>유튜브 저세상개발자에서 머신러닝 개발자가 되려면 알아야할 기초적인 내용을 보고 나서 필기한 것을 옮겨본다.</p>
+
+<ul>
+  <li>수학<br />
+선형대수 - diagonalization, Jordan form, Spectral decomposition<br />
+미적분학 - divergence, 편미분, 간단한 미분방정식, Lagrange equation</li>
+</ul>
+
+<ol>
+  <li>
+    <p>youtube : <a href="https://www.youtube.com/channel/UCE-MBIJVYMiza18PqN6VdTw">Docceptor 님의 머신러닝 강좌</a></p>
+  </li>
+  <li>
+    <p><a href="https://m.boostcourse.org/">네이버 부스트 코스</a> : <a href="https://www.boostcourse.org/ai215/intro">Andrew Ng 교수님의 딥런닝 강좌</a></p>
+  </li>
+  <li>
+    <p>Kaggle - <a href="https://www.youtube.com/playlist?list=PLC_wC_PMBL5MnqmgTLqDgu4tO8mrQakuF">You Han Lee 캐글 타이타닉</a></p>
+  </li>
+</ol>
+
+<p>을 참고로 머신러닝에 대한 기초지식을 쌓을 것을 권유하고 있다.</p>
+
+<p><strong>2019.08.07</strong></p>
+
+<p>‘시스템 무결성 보호(System Integrity Protection, 줄여서 SIP)’ 해제 방법</p>
+
+<p>부팅시 command+R 를 눌러서 복구 모드로 부팅</p>
+
+<p>terminal 열고</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/usr/bin/csrutil disable
+</code></pre></div></div>
+
+<p>재부팅후 정상모드에서</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/usr/bin/csrutil status 
+</code></pre></div></div>
+
+<p>로 제대로 설정됐나 확인할 수 있음.</p>
+:ET
