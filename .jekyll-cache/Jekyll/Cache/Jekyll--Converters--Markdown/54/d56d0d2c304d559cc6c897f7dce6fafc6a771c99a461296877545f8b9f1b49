@@ -1,0 +1,16 @@
+I"/<p><strong>2022/11/27(일)</strong><br />
+<a href="https://exercism.org">exercism 코드 퀴즈</a><br />
+<a href="https://keyframes.app">https://keyframes.app</a><br />
+python 으로 행렬 대각화하는 걸 어느 책에서 봤나 생각날 듯 생각나지 않았는데,<br />
+<a href="https://pythonnumericalmethods.berkeley.edu/notebooks/chapter15.04-Eigenvalues-and-Eigenvectors-in-Python.html">pythonnumericalmethods.berkeley.edu</a> 이 책에서 봤음.</p>
+
+<p>numpy 는 eigenvector 를 transpose 해 주어야 제대로 된 eigenvector 를 얻을 수 있음.</p>
+
+<p><strong>2017.11.27</strong><br />
+macport로 설치한  gem은   gem2.4이다.반면 brew로설치한 gem  은그냥   gem이다.</p>
+
+<p><strong>2016.11.27</strong><br />
+Fazekas 책 읽어보기 chapter 8.<br />
+프린트 사고 싶으면 후지제록스가 재생토너가 36,000원 대이고 괜찮은 거 같다.<a href="https://jinhong-park.github.io/journal2//public/pic/print.png">click</a>
+<img src="https://jinhong-park.github.io/journal2//public/pic/print.png" alt="print" /></p>
+:ET
