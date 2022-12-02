@@ -1,0 +1,34 @@
+I"�<p><strong>2022.12.01</strong><br />
+Zelenskiy 논문이 Mn$_3$Sn 연구에 상당히 유용한데 그 이유는 spin-orbit coupling 과 spin texture (spin Hamiltonian 과의 관게를 밝혔다는 점 때문이다.)<br />
+spin-orbit 이 바뀌면 왜 spin Hamiltonian 이 바뀔 것인가?<br />
+spin-orbit coupling 이 커진다는 것은 spin degree of freedom 과 orbital degree of freedom 이 <em>서로 따로따로 놀고 있지 않다</em>는 것을 의미한다. 
+결정 구조의 대칭성에 대해서 spin 의 대칭성을 고려한다는 것은 spin 의 회전과 reflection 의 자유도를 더해서 고려한다는 것이다. ($\rightarrow$ 이 statement 는 crystal symmetry 와 time reversal symmetry 를 함쳐서 magnetic space group 을 만들수 있다는 논의로 확장된다.)<br />
+spin-orbit couping 의 극한의 조건에서 graphene 이 kitaev spin model 로 가게끔 mapping 할 수 있을까?<br />
+-&gt; higer spin S kitaev model in graphene 이 가능할까? -&gt; <strong><a href="http://arxiv.org/abs/2212.00053">2212.00053</a></strong> <strong>$\mathbb Z_2$ spin liquids in the higher spin-$S$ Kitaev honeycomb model: An exact deconfined $\mathbb Z_2$ gauge structure in a non-integrable model (honeycomb, arXiv)</strong><br />
+이 논문에서 영감을 받았음.</p>
+
+<p><strong>2016.12.01</strong></p>
+
+<ol>
+  <li>
+    <p>OAM 에 의해 Berry phase 가 변한다는 관점은 여전한거 같다.
+그래서 모든 momentum k 에 대해 OAM 변화와 Berry curvature 변화를 그려보는 게 중요할 거 같다.</p>
+  </li>
+  <li>
+    <p>PRL 에서 리뷰의뢰가 왔다. 시간 늦지 않게 리뷰해보자.</p>
+  </li>
+  <li>
+    <p>지금 논문 작성도 얼른 끝내자.</p>
+  </li>
+  <li>
+    <p>K, -K 사이에 berry curvature 변화와 OAM 변화를 살펴보는것이 중요하겠다.</p>
+  </li>
+</ol>
+
+<p><em>trick</em></p>
+
+<p>latex 수정 세팅을 atom editor 과 skim viewer로 선택하였다.
+latextools 패키지를 설치하면 cmd+alt+b 가 compile 하는 단축키이다.
+그리고 pdf에서 latex으로 backward search는 cmd+shift+click 이다.
+그리고, spell-check 는 text.tex.latex를 추가하면 된다.</p>
+:ET
