@@ -1,0 +1,48 @@
+---
+layout: post
+title : "Dec 28th"
+date : 2021-12-28
+categories: research
+excerpt: ""
+
+
+---
+
+**2022.12.28(목)**
+
+
+오전에 대화중  Heavy metal 이 있음에도 불구하고 phonon dispersion 에 spin-orbit 이 중요하지 않다는 문구가 있었다는 언급을 함. 
+
+>
+The phonon-related calculations were carried out without including the spin-orbit coupling (SOC) effect due
+to it is less important in describing the vibrational and superconductivity properties [55,56].
+
+[https://journals.aps.org/prb/pdf/10.1103/PhysRevB.106.214527](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.106.214527)
+
+spin-orbit 과 phonon 이 직접적인 관계가 있다는 연구가 있었는지는 궁금해진다. 
+
+물론 heavy 한 물질은 ion mass 가 증가하고 그로인해서 phonon의 dispersion 이 바뀌는 것은 알겠지만, spin-orbit 도 덩달아 heavy 한 물질에서는  커지겠지.. 하지만 direct 하게 연결할 수 있을까??
+
+
+
+
+그다음 톡에서 biquadratic 항이 콘도항과 관련이 있다는데, 그 연결관계를 모르겠다. 
+
+콘도 상호작용을 고려해서 biquadratic 항을 유도할 수 있을까?
+
+
+그리고 biquadratic 항을 넣으면 공간적으로 amplitude modulating spin 구조를 얻을 수 있는지 궁금하다. 
+
+
+
+
+
+
+
+
+
+
+**2017.12.28**
+
+19V 로 설정하고 충전하면 된다.
+
