@@ -20,3 +20,9 @@ excerpt: ""
 
 우리 가족 화이팅! 
 
+
+[https://arxiv.org/pdf/2301.02683.pdf](https://arxiv.org/pdf/2301.02683.pdf) 이 논문에서 jax 라는 것을 알게 됨.
+
+[https://github.com/google/jax](https://github.com/google/jax)
+
+[https://jax.readthedocs.io/en/latest/installation.html](https://jax.readthedocs.io/en/latest/installation.html)
