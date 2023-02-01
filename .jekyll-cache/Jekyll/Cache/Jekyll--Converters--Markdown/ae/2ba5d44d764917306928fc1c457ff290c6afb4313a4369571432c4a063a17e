@@ -1,0 +1,56 @@
+I"�<p><strong>2023.02.01(수)</strong></p>
+
+<p>매튜 피셔.. 10여년전 포항공대에서 학회했을 때 본 적이 있는 매튜 피셔. 그에 대한 인상은 학회에 와서도 항상 얼굴은 책상을 보고 있고 뭔가를 끄적여 계산하고 있는 모습이었다. 학회주최측에서 받은 새 공책에 무엇을 그렇게 계산하고 있는 지 궁금했지만, 그 모습으로부터 그에 대한 인상은 떠벌이 물리학자가 아닌 학문에 대해 겸손한 물리학자라는 인상이 남아있다. 우연히 KITP 홈페이지에서 그를 발견하고 10여년전의 그가 생각나서 메모를 남겨본다.</p>
+
+<p>그가 2020년에 강의한 대학원 양자역학 syllabus 이다. 아주 좋은 syllabus 라서 스크랩해 둠.</p>
+
+<p><a href="https://www.kitp.ucsb.edu/mpaf/physics-215b-winter-2020">https://www.kitp.ucsb.edu/mpaf/physics-215b-winter-2020</a></p>
+
+<h3 id="syllabus-for-215b">SYLLABUS for 215B</h3>
+
+<h3 id="path-integral-formulation-of-quantum-mechanics">Path Integral Formulation of Quantum Mechanics:</h3>
+
+<ul>
+  <li>Real time and Euclidian path integrals</li>
+  <li>Instantons and tunneling<br />
+*Path integrals for identical particles</li>
+</ul>
+
+<h3 id="quantum-computing">Quantum Computing:</h3>
+
+<ul>
+  <li>Quantum Information, Complexity and Parallelism</li>
+  <li>Quantum Algorithms - Deutsch algorithm, Grover Algorithm</li>
+  <li>Quantum Error Correction</li>
+</ul>
+
+<p>$$$ (Symmetry in Quantum Mechanics)</p>
+
+<ul>
+  <li>Continous symmetries;  Spatial translations, rotations and angular momentum (briefly)</li>
+  <li>Discrete symmetries; Parity, lattice translations, time-reversal</li>
+</ul>
+
+<h3 id="approximation-methods">Approximation methods:</h3>
+
+<ul>
+  <li>Time Independent Perturbation Theory</li>
+  <li>Time dependent perturbation theory</li>
+  <li>(Berry’s phase and adiabatic evolution)</li>
+</ul>
+
+<h3 id="scattering-theory">(Scattering Theory)</h3>
+
+<ul>
+  <li>Landauer Transport theory for electrical conduction</li>
+  <li>Elastic and Inelastic scattering (dynamical structure factor)</li>
+</ul>
+
+<h3 id="lattice-quantum-field-theory">Lattice Quantum Field Theory:</h3>
+
+<ul>
+  <li>Quantum Transverse Field Ising model</li>
+  <li>1d Quantum Ising Model and Majorana Fermions</li>
+</ul>
+
+:ET
