@@ -1,0 +1,14 @@
+I"�<p><strong>2023.04.11(화)</strong></p>
+
+<p>https://link.aps.org/doi/10.1103/PhysRevX.13.021005</p>
+
+<p>오늘 PRX 에 출판된 “Demon in the Machine: Learning to Extract Work and Absorb Entropy from Fluctuating Nanosystems” 논문.</p>
+
+<p>Ising model 에 대해서 Monte Carlo 시뮬레이션을 하고 일반적인 machine learning algorithm 을 이용하여 training 한 후 work 를 extract을 수행하였다. 따라가 볼만하다고 생각 됨.</p>
+
+<p>“Renormalized Classical Theory of Quantum Magnets” CDBatista 의 논문도 상당히 인상적이다. 
+-&gt; classical spin 과 CP1 모델과의 관계를 잘 규명한 논문임.</p>
+
+<!-- ![](https://jinhong-park.github.io/journal2/images/2023-04-10-lunch.png) -->
+
+:ET
